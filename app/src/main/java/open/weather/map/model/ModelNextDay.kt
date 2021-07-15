@@ -1,4 +1,4 @@
-package open.weather.map
+package open.weather.map.model
 
 import java.io.Serializable
 

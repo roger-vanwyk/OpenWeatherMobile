@@ -1,4 +1,4 @@
-package open.weather.map
+package open.weather.map.network
 
 object ApiEndpoint {
     var BASEURL = "http://api.openweathermap.org/data/2.5/"
